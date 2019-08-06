@@ -1,0 +1,41 @@
+@font-face {
+  font-family: "NeoSansProRegular";
+  src: url("../fonts/NeoSansProRegular.eot");
+  src: url("../fonts/NeoSansProRegular.eot") format("embedded-opentype"), url("../fonts/NeoSansProRegular.woff") format("woff"), url("../fonts/NeoSansProRegular.ttf") format("truetype"), url("../fonts/NeoSansProRegular.svg#NeoSansProRegular") format("svg");
+  font-style: normal;
+  font-weight: normal; }
+
+@font-face {
+  font-family: "NeoSansProBoldItalic";
+  src: url("../fonts/NeoSansProBoldItalic.eot");
+  src: url("../fonts/NeoSansProBoldItalic.eot") format("embedded-opentype"), url("../fonts/NeoSansProBoldItalic.woff") format("woff"), url("../fonts/NeoSansProBoldItalic.ttf") format("truetype"), url("../fonts/NeoSansProBoldItalic.svg#NeoSansProBoldItalic") format("svg");
+  font-style: normal;
+  font-weight: normal; }
+
+@font-face {
+  font-family: "FuturaPTBook";
+  src: url("../fonts/FuturaPTBook.eot");
+  src: url("../fonts/FuturaPTBook.eot") format("embedded-opentype"), url("../fonts/FuturaPTBook.woff") format("woff"), url("../fonts/FuturaPTBook.ttf") format("truetype"), url("../fonts/FuturaPTBook.svg#FuturaPTBook") format("svg");
+  font-style: normal;
+  font-weight: normal; }
+
+@font-face {
+  font-family: "FuturaPTLight_0";
+  src: url("../fonts/FuturaPTLight_0.eot");
+  src: url("../fonts/FuturaPTLight_0.eot") format("embedded-opentype"), url("../fonts/FuturaPTLight_0.woff") format("woff"), url("../fonts/FuturaPTLight_0.ttf") format("truetype"), url("../fonts/FuturaPTLight_0.svg#FuturaPTLight_0") format("svg");
+  font-style: normal;
+  font-weight: normal; }
+
+@font-face {
+  font-family: "FuturaPTMedium_0";
+  src: url("../fonts/FuturaPTMedium_0.eot");
+  src: url("../fonts/FuturaPTMedium_0.eot") format("embedded-opentype"), url("../fonts/FuturaPTMedium_0.woff") format("woff"), url("../fonts/FuturaPTMedium_0.ttf") format("truetype"), url("../fonts/FuturaPTMedium_0.svg#FuturaPTMedium_0") format("svg");
+  font-style: normal;
+  font-weight: normal; }
+
+@font-face {
+  font-family: "FuturaPTHeavy";
+  src: url("../fonts/FuturaPTHeavy.eot");
+  src: url("../fonts/FuturaPTHeavy.eot") format("embedded-opentype"), url("../fonts/FuturaPTHeavy.woff") format("woff"), url("../fonts/FuturaPTHeavy.ttf") format("truetype"), url("../fonts/FuturaPTHeavy.svg#FuturaPTHeavy") format("svg");
+  font-style: normal;
+  font-weight: normal; }
